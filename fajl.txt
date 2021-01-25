@@ -1,0 +1,10 @@
+    1  ls -l
+    2  cd Users
+    3  ls -l
+    4  cd ivan
+    5  ls -l
+    6  cd Desktop
+    7  mkdir novi
+    8  cd novi
+    9  touch fajl.txt
+   10  history > fajl.txt
